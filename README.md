@@ -1,16 +1,22 @@
-## Hi there 👋
+## はじめまして、飛田　高孝（ひだ　たかゆき）です 👋
 
-<!--
-**hidalbirex-creator/hidalbirex-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+COACHTECHでLaravelフレームワークによるWebアプリ開発を学んでおります。
+使い勝手の良いアプリケーションの開発に携わりたいです。
 
-Here are some ideas to get you started:
+## 学んだ技術 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **バックエンド**: PHP / Laravel
+- **フロントエンド**: HTML5 / CSS / Blade
+- **データベース**: MySQL
+- **その他**: Docker / Git・GitHub
+
+## 学習成果物
+
+
+## これから挑戦したいこと
+
+一緒に仕事がしたい、と思われるエンジニアになりたいです。
+
+## 連絡先
+
+- Email: hidalbirex@pgmail.com
